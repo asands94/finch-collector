@@ -1,3 +1,3 @@
-pip install -r startup.sh
+pip install -r requirements.txt
 
 python manage.py migrate
